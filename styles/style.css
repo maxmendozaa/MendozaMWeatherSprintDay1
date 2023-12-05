@@ -22,3 +22,14 @@ body {
     color: white;
     background-color: black;
 }
+
+.fav {
+    color: white;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.search {
+    display: flex;
+    justify-content: flex-end;
+}
