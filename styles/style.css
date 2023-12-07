@@ -42,3 +42,15 @@ body {
 .align {
     text-align: center;
 }
+
+.curDate {
+    color: white;
+    font-size: 70px;
+    text-align: end;
+}
+
+.curWeather {
+    color: white;
+    font-size: 50px;
+    text-align: end;
+}
